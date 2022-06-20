@@ -1,0 +1,42 @@
+ [{
+    "id": 1,
+    "name": "Pedro",
+    "email": "pedrope@gmail.com",
+    "roles": [
+      "biceps",
+      "cuadriceps"
+    ],
+    "status": "activo",
+    "sedes": [
+      "lujan",
+      "chacras"
+    ]
+ },
+ {
+    "id": 2,
+    "name": "Marcela",
+    "email": "marce_35@gmail.com",
+    "roles": [
+      "abdominales",
+      "espinales"
+    ],
+    "status": "activo",
+    "sedes": [
+      "lujan",
+      "chacras"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Marino",
+    "email": "mar_iano@gmail.com",
+    "roles": [
+      "biceps",
+      "triceps"
+    ],
+    "status": "activo",
+    "sedes": [
+      "lujan"
+    ]
+  }, 
+]
